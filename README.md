@@ -6,8 +6,8 @@
 ___
 <div align="center">
   <a href="https://github.com/alvalenda">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alvalenda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvalenda&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvalenda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvalenda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -16,8 +16,6 @@ ___
   <img align="center" alt="Alva-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="right" alt="Alva-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/780200279772626944/981106010771058718/unknown.png">
   <img align="right" alt="Alva-gif2" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/780200279772626944/981115055179436032/avatar_discord.gif">
-  
-  
 </div>
   
 ##
