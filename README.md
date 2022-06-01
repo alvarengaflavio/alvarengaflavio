@@ -1,4 +1,4 @@
-## Olá! Eu sou o Flávio Alvarenga ☜(ﾟヮﾟ☜)
+## Olá! Eu sou o Flávio Alvarenga               ☜(ﾟヮﾟ☜)
 - 🔭 Estudante Dev Full Stack em [BlueEdtech](https://blueedtech.com.br/)
 - 🌱 Estudando JavaScript 
 - 📫 Contate-me no e-mail: flavio.alva@outlook.com
