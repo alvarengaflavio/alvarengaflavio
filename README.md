@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Flávio Alvarenga               ☜(ﾟヮﾟ☜)
 - 🔭 Estudante Dev Full Stack em [BlueEdtech](https://blueedtech.com.br/)
-- 🌱 Estudando JavaScript 
+- 🌱 Estudando JavaScript, HTML e CSS 
 - 📫 Contate-me no e-mail: flavio.alva@outlook.com
 - 😄 Pronouns: ele/dele
 ___
