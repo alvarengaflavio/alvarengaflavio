@@ -16,6 +16,10 @@ ___
   <img align="center" alt="Alva-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Alva-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alva-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Alva-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Alva-expres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="Alva-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  
   <img align="right" alt="Alva-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/780200279772626944/981106010771058718/unknown.png?width=676&height=676">
  <!-- <img align="right" alt="Alva-gif2" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/780200279772626944/981115055179436032/avatar_discord.gif"> -->
 </div>
