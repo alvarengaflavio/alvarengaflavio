@@ -32,6 +32,7 @@ Sobre Mim
 <a href="https://discordapp.com/users/246040430494351362" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="20" width="100" target="_blank"></a>
 
 </br>
+</br>
 
 <h2>:bulb: Linguagens & Frameworks</h2>
 
@@ -44,7 +45,6 @@ Sobre Mim
   <code><img alt="react" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
   <code><img alt="expres" width="40" style="border: 1px solid white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
   
-</br>
 
 <h2>:hammer_and_wrench: Ferramentas </h2>
 <div style="display: inline_block">
