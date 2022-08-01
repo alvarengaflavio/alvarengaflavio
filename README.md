@@ -1,7 +1,8 @@
 ## 🤝🏻 Olá!
 <div align="center">
 </br>
-  <a href="https://github.com/alvalenda" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&size=34&color=7E3ACE&center=true&vCenter=true&width=500&lines=Eu+sou+Fl%C3%A1vio+Alvarenga;Desenvolvedor+FullStack" alt="Typing SVG" /></a>
+</br>
+<a href="https://github.com/alvalenda" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&size=34&color=7E3ACE&center=true&vCenter=true&width=500&lines=Eu+sou+Fl%C3%A1vio+Alvarenga;Desenvolvedor+FullStack" alt="Typing SVG" /></a>
 </div>
 
 </br>
@@ -13,6 +14,7 @@
 - 🌱 Estudando JavaScript, HTML, CSS e SQL 
 - 📫 Contate-me no e-mail: flavio.alva@outlook.com
 - 😄 Pronouns: ele/dele
+- 📕 Portfolio: [Portfolio Pessoal](https://alvalenda.github.io/portfolio/)
 
 
 </br>
@@ -81,5 +83,6 @@
 </div>
   
 ##
-  
-(╯°□°）╯︵ ┻━┻
+ 
+<img align="right" alt="alvacode logo" width="150" src="./assets/alvacode-logo.png">
+
