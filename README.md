@@ -84,5 +84,5 @@
   
 ##
  
-<img align="right" alt="alvacode logo" width="150" src="./assets/alvacode-logo.png">
+<img align="right" alt="alvacode logo" width="125" src="./assets/alvacode-logo.png">
 
