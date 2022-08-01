@@ -32,7 +32,6 @@ Sobre Mim
 <a href="https://discordapp.com/users/246040430494351362" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="20" width="100" target="_blank"></a>
 
 </br>
-</br>
 
 <h2>:bulb: Linguagens & Frameworks</h2>
 
