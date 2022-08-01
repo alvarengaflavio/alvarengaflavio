@@ -1,13 +1,12 @@
-## Olá!
+## 🤝🏻 Olá!
 <div align="center">
 </br>
   <a href="https://github.com/alvalenda" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&size=34&color=7E3ACE&center=true&vCenter=true&width=500&lines=Eu+sou+Fl%C3%A1vio+Alvarenga;Desenvolvedor+FullStack" alt="Typing SVG" /></a>
 </div>
 
-<br>
+</br>
 
-Sobre Mim
----
+<h2> 🧔🏻 Sobre Mim </h2> 
 <img align="right" alt="Alva-gif2" width="175" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/780200279772626944/981115055179436032/avatar_discord.gif">
 
 - 🔭 Estudante Dev Full Stack em [BlueEdtech](https://blueedtech.com.br/)
@@ -15,9 +14,10 @@ Sobre Mim
 - 📫 Contate-me no e-mail: flavio.alva@outlook.com
 - 😄 Pronouns: ele/dele
 
+
 </br>
 
-<h2>Contato</h2>
+<h2>🕵🏻‍♀️ Contato</h2>
 <a href="https://github.com/alvalenda">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/alvalenda?style=social&label=@alvalenda">
 </a>
@@ -68,7 +68,7 @@ Sobre Mim
  
 
 </br>
-<h2>Estatísticas do Github</h2>
+<h2> 📊 Estatísticas do Github</h2>
 </br>
 <div align="center">
   <a href="https://github.com/alvalenda">
