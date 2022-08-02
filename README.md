@@ -1,34 +1,36 @@
-<header>
-    <img src="./assets/header-image.png" height="100" width="100%"  alt="header image" />
-</header>
+<div id="header">
+    <header>
+        <img src="./assets/header-image.png" height="100" width="100%"  alt="header image" />
+    </header>
+</div>
 
 <table align="right">
     <tr><td><a href="https://github.com/alvalenda/alvalenda/blob/main/README.md"> :us: EN </a></td></tr>
     <tr><td><a href="https://github.com/alvalenda/alvalenda/blob/main/README-pt-br.md"> :brazil: PT </a></td></tr>
 </table>
 
-## 🤝🏻 Olá!
+## 🤝🏻 Hi!
 <div align="center">
 </br>
 </br>
-    <a href="https://github.com/alvalenda" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&size=34&color=7E3ACE&center=true&vCenter=true&width=500&lines=Eu+sou+Fl%C3%A1vio+Alvarenga;Desenvolvedor+FullStack" alt="Typing SVG" /></a>
+    <a href="https://github.com/alvalenda" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Saria&size=34&duration=6000&color=7E3ACE&center=true&width=600&lines=I'm+Flavio+Alvarenga;Brazilian+FullStack+Developer" alt="Typing SVG" /></a>
 </div>
 
 </br>
 
-<h2> 🧔🏻 Sobre Mim </h2> 
+<h2> 🧔🏻 About Me </h2> 
     <img align="right" alt="Alva-gif2" width="175" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/780200279772626944/981115055179436032/avatar_discord.gif">
 
-- 🔭 Estudante Dev Full Stack em [BlueEdtech](https://blueedtech.com.br/)
-- 🌱 Estudando JavaScript, HTML, CSS e SQL 
-- 📫 Contate-me no e-mail: flavio.alva@outlook.com
-- 😄 Pronouns: ele/dele
-- 📕 Portfolio: [Portfolio Pessoal](https://alvalenda.github.io/portfolio/)
+- 🔭 Studying FullStack Development in [BlueEdtech](https://blueedtech.com.br/)
+- 🌱 Currently learning: Mongo, SQL, Express, Node.JS 
+- 📫 Reach Me by e-mail: flavio.alva@outlook.com
+- 😄 Pronouns: he/his
+- 📕 Personal Portfolio: [Portfolio](https://alvalenda.github.io/portfolio/)
 
 
 </br>
 
-<h2>🕵🏻‍♀️ Contato</h2>
+<h2>🕵🏻‍♀️  How To Reach Me </h2>
     <a href="https://github.com/alvalenda">
         <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/alvalenda?style=social&label=@alvalenda">
     </a>
@@ -48,7 +50,7 @@
 </br>
 </br>
 
-<h2>:bulb: Linguagens & Frameworks</h2>
+<h2>:bulb: Languages & Frameworks</h2>
 
   <code><img alt="JS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
   <code><img alt="html" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
@@ -61,7 +63,7 @@
   
 </br>
 
-<h2>:hammer_and_wrench: Ferramentas </h2>
+<h2>:hammer_and_wrench: Dev Tools </h2>
     <div style="display: inline_block">
     <code> <img title="npm" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
     <code> <img alt="icone vscode" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
@@ -81,7 +83,7 @@
 
 </br>
 
-<h2> 📊 Estatísticas do Github</h2>
+<h2> 📊 Github Statistics </h2>
 </br>
     <div align="center">
         <a href="https://github.com/alvalenda">
@@ -96,6 +98,8 @@
   
 ##
 <footer> 
-    <img align="right" alt="alvacode logo" width="125" src="./assets/alvacode-logo.png">
+    <a href="#header">
+        <img align="right" alt="alvacode logo" width="125" src="./assets/alvacode-logo.png">
+    </a>
     <img src="./assets/footer-image.png" height="100" width="100%"  alt="header image" />
 </footer>
