@@ -5,8 +5,8 @@
 </div>
 
 <table align="right">
-    <tr><td><a href="https://github.com/alvalenda/alvalenda/blob/main/README.md"> :us: EN </a></td></tr>
-    <tr><td><a href="https://github.com/alvalenda/alvalenda/blob/main/README-pt-br.md"> :brazil: PT </a></td></tr>
+    <tr><td><a href="https://github.com/alvalenda/alvalenda/blob/main/README-en.md"> :us: EN </a></td></tr>
+    <tr><td><a href="https://github.com/alvalenda/alvalenda/blob/main/README.md"> :brazil: PT </a></td></tr>
 </table>
 
 ## 🤝🏻 Olá!
