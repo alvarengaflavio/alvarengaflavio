@@ -1,6 +1,8 @@
-<header>
-    <img src="./assets/header-image.png" height="100" width="100%"  alt="header image" />
-</header>
+<div id="header">
+    <header>
+        <img src="./assets/header-image.png" height="100" width="100%"  alt="header image" />
+    </header>
+</div>
 
 <table align="right">
     <tr><td><a href="https://github.com/alvalenda/alvalenda/blob/main/README.md"> :us: EN </a></td></tr>
@@ -95,8 +97,10 @@
 </div>
   
 ##
-<footer> 
-    <img align="right" alt="alvacode logo" width="125" src="./assets/alvacode-logo.png">
+<footer>
+    <a href="#header">
+        <img align="right" alt="alvacode logo" width="125" src="./assets/alvacode-logo.png">
+    </a>
     <img src="./assets/footer-image.png" height="100" width="100%"  alt="header image" />
 </footer>
 
