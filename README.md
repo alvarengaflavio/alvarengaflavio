@@ -1,3 +1,7 @@
+<header>
+    <img src="./assets/header-image.png" height="100" width="100%"  alt="header image" />
+</header>
+
 ## 🤝🏻 Olá!
 <div align="center">
 </br>
@@ -83,6 +87,8 @@
 </div>
   
 ##
- 
-<img align="right" alt="alvacode logo" width="125" src="./assets/alvacode-logo.png">
+<footer> 
+    <img align="right" alt="alvacode logo" width="125" src="./assets/alvacode-logo.png">
+    <img src="./assets/footer-image.png" height="100" width="100%"  alt="header image" />
+</footer>
 
