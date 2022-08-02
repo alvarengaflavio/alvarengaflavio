@@ -13,7 +13,7 @@
 <div align="center">
 </br>
 </br>
-    <a href="https://github.com/alvalenda" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Saria&size=34&duration=6000&color=7E3ACE&center=true&width=600&lines=I'm+Flavio+Alvarenga;Brazilian+FullStack+Developer" alt="Typing SVG" /></a>
+    <a href="https://github.com/alvalenda" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Saria&size=34&color=7E3ACE&center=true&width=600&lines=I'm+Flavio+Alvarenga;Brazilian+FullStack+Developer" alt="Typing SVG" /></a>
 </div>
 
 </br>
