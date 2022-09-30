@@ -22,7 +22,7 @@
     <img align="right" alt="Alva-gif2" width="175" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/780200279772626944/981115055179436032/avatar_discord.gif">
 
 - 🔭 Studying FullStack Development in [BlueEdtech](https://blueedtech.com.br/)
-- 🌱 Currently learning: Mongo, SQL, Express, Node.JS 
+- 🌱 Currently learning: React, Typescript 
 - 📫 Reach Me by e-mail: flavio.alva@outlook.com
 - 😄 Pronouns: he/his
 - 📕 Personal Portfolio: [Portfolio](https://alvalenda.github.io/portfolio/)
