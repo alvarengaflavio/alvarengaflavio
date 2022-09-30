@@ -87,7 +87,7 @@
 </br>
     <div align="center">
         <a href="https://github.com/alvalenda">
-            <img height="167em" src="https://github-readme-stats.vercel.app/api?username=alvalenda&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+            <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alvalenda&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
             <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvalenda&layout=compact&langs_count=7&theme=aura"/>
         </a>
 
