@@ -13,7 +13,7 @@
 <div align="center">
 </br>
 </br>
-    <a href="https://github.com/alvalenda" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&size=34&color=7E3ACE&center=false&vCenter=true&width=500&lines=Eu+sou+Fl%C3%A1vio+Alvarenga;Desenvolvedor+FullStack" alt="Typing SVG" /></a>
+    <a href="https://github.com/alvalenda" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&size=34&color=7E3ACE&center=true&vCenter=true&width=500&lines=Eu+sou+Fl%C3%A1vio+Alvarenga;Desenvolvedor+FullStack" alt="Typing SVG" /></a>
 </div>
 
 </br>
@@ -87,7 +87,7 @@
 </br>
     <div align="center">
         <a href="https://github.com/alvalenda">
-            <img height="167em" src="https://github-readme-stats.vercel.app/api?username=alvalenda&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+            <img height="167em" src="https://github-readme-stats.vercel.app/api?username=alvalenda&show_icons=true&theme=aura&include_all_commits=false&count_private=true"/>
             <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvalenda&layout=compact&langs_count=7&theme=aura"/>
         </a>
 
