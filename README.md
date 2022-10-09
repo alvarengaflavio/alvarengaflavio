@@ -25,7 +25,7 @@
 - 🌱 Atualmente Estudando: React, Typescript 
 - 📫 Contate-me no e-mail: flavio.alva@outlook.com
 - 😄 Pronouns: ele/dele
-- 📕 Portfolio: versão 2.0 em produção
+- 📕 Portfolio: nova versão em produção
 
 
 </br>
