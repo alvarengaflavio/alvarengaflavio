@@ -25,7 +25,7 @@
 - 🌱 Currently learning: React, Typescript 
 - 📫 Reach Me by e-mail: flavio.alva@outlook.com
 - 😄 Pronouns: he/his
-- 📕 Personal Portfolio: [Portfolio]()
+- 📕 Personal Portfolio: soon
 
 
 </br>
