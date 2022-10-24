@@ -21,11 +21,11 @@
 <h2> 🧔🏻 Sobre Mim </h2> 
     <img align="right" alt="Alva-gif2" width="175" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/780200279772626944/981115055179436032/avatar_discord.gif">
 
-- 🔭 Estudante Dev Full Stack
+- 🔭 Estudando Desenvolvimento Full Stack
 - 🌱 Atualmente Estudando: React, Typescript 
 - 📫 Contate-me no e-mail: flavio.alva@outlook.com
 - 😄 Pronouns: ele/dele
-- 📕 Portfolio: nova versão em produção
+- 📕 Portfolio: em breve
 
 
 </br>
