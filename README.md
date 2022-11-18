@@ -22,7 +22,7 @@
     <img align="right" alt="Alva-gif2" width="175" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/780200279772626944/981115055179436032/avatar_discord.gif">
 
 - 🔭 Estudando Desenvolvimento Full Stack
-- 🌱 Atualmente Estudando: React, Typescript 
+- 🌱 Atualmente Estudando: NestJs, Postgres, Prisma
 - 📫 Contate-me no e-mail: flavio.alva@outlook.com
 - 😄 Pronouns: ele/dele
 - 📕 Portfolio: em breve...
