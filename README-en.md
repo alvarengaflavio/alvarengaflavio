@@ -25,7 +25,7 @@
 - 🌱 Currently learning: NestJS, Typescript, Prisma, Postgres 
 - 📫 Reach Me by e-mail: flavio.alva@outlook.com
 - 😄 Pronouns: he/his
-- 📕 Personal Portfolio: soon
+- 📕 Personal Portfolio: https://alvalenda-portfolio.vercel.app/
 
 
 </br>
