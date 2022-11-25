@@ -25,7 +25,7 @@
 - 🌱 Atualmente Estudando: NestJS, Postgres, Prisma
 - 📫 Contate-me no e-mail: flavio.alva@outlook.com
 - 😄 Pronouns: ele/dele
-- 📕 Portfolio: em breve...
+- 📕 Portfolio: https://alvalenda-portfolio.vercel.app/
 
 
 </br>
