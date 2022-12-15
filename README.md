@@ -50,7 +50,7 @@
 </br>
 </br>
 
-<h2>:bulb: Linguagens & Frameworks</h2>
+<h2> :bulb: Linguagens & Frameworks </h2>
 
   <code><img alt="JS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
   <code><img alt="TS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
