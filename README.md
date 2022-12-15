@@ -30,7 +30,7 @@
 
 </br>
 
-<h2>🕵🏻‍♀️ Contato</h2>
+<h2>🕵🏻‍♀️ Contato </h2>
     <a href="https://github.com/alvalenda">
         <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/alvalenda?style=social&label=@alvalenda">
     </a>
