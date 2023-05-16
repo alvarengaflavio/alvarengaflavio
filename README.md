@@ -22,8 +22,8 @@
     <img align="right" alt="Alva-gif2" width="175" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/780200279772626944/981115055179436032/avatar_discord.gif">
 
 - **Desenvolvedor Full Stack**
-- Estudando **Análise e Desenvolvimento de Sistemas**
-- Estudando Atualmente: **Next.js**
+- Graduando em **Análise e Desenvolvimento de Sistemas**
+- Atualmente Estudando: **Next.js**
 - Pronouns: **ele/dele**
 - Portfolio: https://alvalenda-portfolio.vercel.app/
 
