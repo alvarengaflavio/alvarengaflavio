@@ -59,9 +59,10 @@
   <code><img alt="Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
   <code><img alt="C" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
   <code><img alt="node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-  <code><img alt="express" width="40" style="border: 1px solid white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
+  <code><img alt="express" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
   <code><img alt="nestjs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /></code>
   <code><img alt="react" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+  <code><img alt="react" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
   
   
 </br>
