@@ -64,7 +64,7 @@
   <code><img alt="express" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
   <code><img alt="nestjs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /></code>
   <code><img alt="react" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-  <code><img alt="react" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
+  <code><img alt="nextjs" width="40" src="/assets/nextjs-original-white.png" /></code>
 </div>
   
 </br>
