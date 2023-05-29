@@ -23,7 +23,7 @@
 
 ##
 
-- **Desenvolvedor Full Stack**
+- Formado em **Desenvolvimento Full Stack** pela Blue Edtech
 - Graduando em **Análise e Desenvolvimento de Sistemas**
 - Atualmente Estudando: **Next.js**
 - Pronouns: **ele/dele**
