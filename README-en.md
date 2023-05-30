@@ -25,9 +25,6 @@
 
 - **Full Stack Developer**
 - Studying **Computer Systems Analyst**
-- Currently learning: **Next.js**
-- Reach Me by e-mail: flavio.alva@outlook.com
-- Pronouns: **he/his**
 - Personal Portfolio: https://alvalenda-portfolio.vercel.app/
 
 </br>
