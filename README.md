@@ -15,7 +15,7 @@
     
 </br>
 
-<a href="https://github.com/alvalenda" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&size=34&color=7E3ACE&center=true&vCenter=true&width=500&lines=Eu+sou+Fl%C3%A1vio+Alvarenga;Desenvolvedor+FullStack" alt="Typing SVG" /></a>
+<a href="https://github.com/alvarengaflavio" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&size=34&color=7E3ACE&center=true&vCenter=true&width=500&lines=Eu+sou+Fl%C3%A1vio+Alvarenga;Desenvolvedor+FullStack" alt="Typing SVG" /></a>
 
 </div>
 
@@ -23,8 +23,8 @@
 
 ##
 
-- Formado em **Desenvolvimento Full Stack** pela Blue Edtech
-- Graduando em **Análise e Desenvolvimento de Sistemas**
+- **Análise e Desenvolvimento de Sistemas**
+- **Desenvolvedor Web Full Stack** pela Blue Edtech
 - Portfolio: https://alvalenda-portfolio.vercel.app/
 
 </br>
@@ -32,11 +32,11 @@
 ##
 
 <div align="center">
-<a href="https://github.com/alvalenda">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/alvalenda?style=social&label=@alvalenda">
+<a href="https://github.com/alvarengaflavio">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/alvarengaflavio?style=social&label=@alvarengaflavio">
 </a>
-<a href="https://twitter.com/banysan/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/banysan?style=social&label=@banysan">
+<a href="https://twitter.com/import_flavio/">
+    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/banysan?style=social&label=@import_flavio">
 </a>
 <a href="https://www.linkedin.com/in/flavio-alvarenga/">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=Flavio Alvarenga&color=0A66C2&style=flat&logo=linkedin" />
@@ -91,8 +91,8 @@
 
 <div align="center">
     <a href="https://github.com/alvalenda">
-        <img height="167em" src="https://github-readme-stats.vercel.app/api?username=alvalenda&show_icons=true&theme=aura&include_all_commits=false&count_private=true&rank_icon=github&locale=pt-br" />
-        <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvalenda&layout=compact&langs_count=8&theme=aura&count_private=true&locale=pt-br" />
+        <img height="167em" src="https://github-readme-stats.vercel.app/api?username=alvarengaflavio&show_icons=true&theme=aura&include_all_commits=false&count_private=true&rank_icon=github&locale=pt-br" />
+        <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarengaflavio&layout=compact&langs_count=8&theme=aura&count_private=true&locale=pt-br" />
     </a>
 </div>
 
