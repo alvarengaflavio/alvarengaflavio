@@ -98,14 +98,6 @@
 
 ##
 
-<div align="center">
-    
-![Snake animation](https://github.com/alvalenda/alvalenda/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-  
-##
-
 <footer>
     <a href="#header">
         <img align="right" alt="alvacode logo" width="125" src="./assets/alvacode-logo.png">
