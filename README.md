@@ -1,6 +1,7 @@
 <div id="header">
     <header>
         <img src="./assets/header-image.png" height="100" width="100%"  alt="header image" />
+        sd
     </header>
 </div>
 
