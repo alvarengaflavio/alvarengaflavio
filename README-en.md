@@ -32,8 +32,8 @@
 ##
 
 <div align="center">
-<a href="https://github.com/alvalenda">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/alvalenda?style=social&label=@alvalenda">
+<a href="https://github.com/alvarengaflavio">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/alvarengaflavio?style=social&label=@alvarengaflavio">
 </a>
 <a href="https://twitter.com/banysan/">
     <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/banysan?style=social&label=@banysan">
@@ -100,7 +100,7 @@
 </br>
 
 <div align="center">
-    <a href="https://github.com/alvalenda">
+    <a href="https://github.com/alvarengaflavio">
         <img height="167em" src="https://github-readme-stats.vercel.app/api?username=alvarengaflavio&show_icons=true&theme=aura&include_all_commits=true&count_private=true&rank_icon=github" />
         <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarengaflavio&layout=compact&langs_count=8&theme=aura" />
     </a>
@@ -110,7 +110,7 @@
 
 <div align="center">
     
-![Snake animation](https://github.com/alvalenda/alvalenda/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alvarengaflavio/alvarengaflavio/blob/output/github-contribution-grid-snake.svg)
 
 </div>
   
