@@ -5,8 +5,8 @@
 </div>
 
 <table align="right">
-    <tr><td><a href="https://github.com/alvalenda/alvalenda/blob/main/README-en.md"> :us: EN </a></td></tr>
-    <tr><td><a href="https://github.com/alvalenda/alvalenda/blob/main/README.md"> :brazil: PT </a></td></tr>
+    <tr><td><a href="https://github.com/alvarengaflavio/alvarengaflavio/blob/main/README-en.md"> :us: EN </a></td></tr>
+    <tr><td><a href="https://github.com/alvarengaflavio/alvarengaflavio/blob/main/README.md"> :brazil: PT </a></td></tr>
 </table>
 
 ##
@@ -98,7 +98,7 @@
 </br>
 
 <div align="center">
-    <a href="https://github.com/alvalenda">
+    <a href="https://github.com/alvarengaflavio">
         <img height="167em" src="https://github-readme-stats.vercel.app/api?username=alvarengaflavio&show_icons=true&theme=aura&include_all_commits=true&count_private=true&rank_icon=github&locale=pt-br" />
         <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarengaflavio&layout=compact&langs_count=8&theme=aura&count_private=true&locale=pt-br" />
     </a>
