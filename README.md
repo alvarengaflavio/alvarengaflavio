@@ -64,6 +64,7 @@
   <code><img alt="nextjs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /></code>    
   <code><img alt="react" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
   <code><img alt="nextjs" width="40" src="/assets/nextjs-original-white.png" /></code>
+  <code><img alt="vuejs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /></code>
 </div>
   
 </br>
