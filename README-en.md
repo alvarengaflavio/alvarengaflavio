@@ -5,8 +5,8 @@
 </div>
 
 <table align="right">
-    <tr><td><a href="https://github.com/alvalenda/alvalenda/blob/main/README-en.md"> :us: EN </a></td></tr>
-    <tr><td><a href="https://github.com/alvalenda/alvalenda/blob/main/README.md"> :brazil: PT </a></td></tr>
+    <tr><td><a href="https://github.com/alvarengaflavio/alvarengaflavio/blob/main/README-en.md"> :us: EN </a></td></tr>
+    <tr><td><a href="https://github.com/alvarengaflavio/alvarengaflavio/blob/main/README.md"> :brazil: PT </a></td></tr>
 </table>
 
 ##
@@ -15,7 +15,7 @@
     
 </br>
 
-<a href="https://github.com/alvalenda" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Saria&size=34&color=7E3ACE&center=true&width=600&lines=I'm+Flavio+Alvarenga;Brazilian+Full+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://github.com/alvarengaflavio" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Saria&size=34&color=7E3ACE&center=true&width=600&lines=I'm+Flavio+Alvarenga;Brazilian+Full+Stack+Developer" alt="Typing SVG" /></a>
 
 </div>
 
