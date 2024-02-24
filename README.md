@@ -110,6 +110,6 @@
 <!--     <a href="#header">
         <img align="right" alt="alvacode logo" width="125" src="./assets/alvacode-logo.png">
     </a> -->
-<!--     <img src="./assets/footer-image.png" height="100" width="100%"  alt="header image" /> -->
+    <img src="./assets/footer-image.png" height="100" width="100%"  alt="header image" />
 </footer>
 
