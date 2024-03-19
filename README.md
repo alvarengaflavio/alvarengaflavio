@@ -35,9 +35,9 @@
 <a href="https://github.com/alvarengaflavio">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/alvarengaflavio?style=social&label=@alvarengaflavio">
 </a>
-<a href="https://twitter.com/import_flavio/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/banysan?style=social&label=@import_flavio">
-</a>
+<!-- <a href="https://twitter.com/import_flavio/"> -->
+<!--     <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/banysan?style=social&label=@import_flavio"> -->
+<!-- </a> -->
 <a href="https://www.linkedin.com/in/flavio-alvarenga/">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=Flavio Alvarenga&color=0A66C2&style=flat&logo=linkedin" />
 </a>
