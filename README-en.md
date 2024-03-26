@@ -41,8 +41,8 @@
 <a href="https://www.linkedin.com/in/flavio-alvarenga/">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=Flavio Alvarenga&color=0A66C2&style=flat&logo=linkedin" />
 </a>
-<a href="mailto:flavio.alva@outlook.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=flavio.alva@outlook.com&color=whitesmoke&style=flat&logo=gmail" />
+<a href="mailto:alvarengaflavio@outlook.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=alvarengaflavio@outlook.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 <a href="https://discordapp.com/users/246040430494351362" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="20" width="100" target="_blank">
