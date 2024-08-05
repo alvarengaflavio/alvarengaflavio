@@ -23,8 +23,8 @@
 
 ##
 
-- **Análise e Desenvolvimento de Sistemas**
-- **Desenvolvedor Web Full Stack** pela Blue Edtech
+- **Graduado em Análise e Desenvolvimento de Sistemas**
+- **Desenvolvedor Web - Full Stack**
 - Portfolio: https://alvalenda-portfolio.vercel.app/
 
 </br>
