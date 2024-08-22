@@ -23,9 +23,9 @@
 
 ##
 
-- **Full Stack Developer**
 - **Computer Systems Analyst**
-- Personal Portfolio: https://alvalenda-portfolio.vercel.app/
+- **Full Stack Developer**
+<!-- - Personal Portfolio: https://alvalenda-portfolio.vercel.app/  -->
 
 </br>
 
