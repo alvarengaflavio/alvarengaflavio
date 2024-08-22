@@ -25,7 +25,7 @@
 
 - **Graduado em Análise e Desenvolvimento de Sistemas**
 - **Desenvolvedor Web - Full Stack**
-- Portfolio: https://alvalenda-portfolio.vercel.app/
+<!-- - Portfolio: https://alvalenda-portfolio.vercel.app/ -->
 
 </br>
 
