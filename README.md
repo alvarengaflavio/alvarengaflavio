@@ -23,8 +23,8 @@
 
 ##
 
-- **Graduado em Análise e Desenvolvimento de Sistemas**
-- **Desenvolvedor Web - Full Stack**
+- **Analista e Desenvolvedor de Sistemas**
+- **Desenvolvedor Web**
 <!-- - Portfolio: https://alvalenda-portfolio.vercel.app/ -->
 
 </br>
